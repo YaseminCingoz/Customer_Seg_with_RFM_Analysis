@@ -1,12 +1,12 @@
 # Customer_Segmentation_with_RFM_Analysis
 
-# RFM analysis is marketing analysis technique  to use date based on existing customer behavior to predict  how a new customer is likely to act in the future.
-# KEY FACTORS:
+### RFM analysis is marketing analysis technique  to use date based on existing customer behavior to predict  how a new customer is likely to act in the future.
+### KEY FACTORS:
     # Recency: How recently they've  made a purchase 
     # Frequency: total number of purchase (How often they buy)
     # Monetary: amount of money, ralting to money(how much do they spend)
 
-# BUSINESS PROBLEM
+### BUSINESS PROBLEM
 * FLO, an online shoe store, wants to divide its customers into segments and determine marketing strategies according to these segments. 
 * To this end, customers' behaviors will be defined and groups will be created based on clusters in these behaviors.
 
