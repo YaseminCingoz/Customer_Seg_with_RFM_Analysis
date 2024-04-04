@@ -10,10 +10,10 @@
 * FLO, an online shoe store, wants to divide its customers into segments and determine marketing strategies according to these segments. 
 * To this end, customers' behaviors will be defined and groups will be created based on clusters in these behaviors.
 
-# DATASET
+### DATASET
 * The data set consists of information obtained from the past shopping behavior of customers who made their last purchases from Flo via OmniChannel (both online and offline shopping) in 2020 - 2021.
 
-# Variables
+### Variables
 master_id: Unique customer number
 order_channel: Which channel of the shopping platform is used (Android, iOS, Desktop, Mobile)
 last_order_channel: The channel where the last purchase was made
@@ -28,7 +28,7 @@ customer_value_total_ever_online: Total price paid by the customer for online pu
 interested_in_categories_12: List of categories the customer has shopped in the last 12 months
 
 
-# STESPS
+### STESPS
 - Data Understanding
 - Omnichannel shows that customers do shopping both inline and offline. Create new variables for the total number of purchases and expenditures of each customer.
 - Look at the data types. Change the data type expresing date to date.
